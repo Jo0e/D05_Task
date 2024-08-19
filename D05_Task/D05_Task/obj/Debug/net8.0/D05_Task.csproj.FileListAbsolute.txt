@@ -1,0 +1,28 @@
+D:\asp.net sec\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.exe
+D:\asp.net sec\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.deps.json
+D:\asp.net sec\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.runtimeconfig.json
+D:\asp.net sec\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.dll
+D:\asp.net sec\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.pdb
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.AssemblyInfoInputs.cache
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.AssemblyInfo.cs
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.csproj.CoreCompileInputs.cache
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.dll
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\refint\D05_Task.dll
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.pdb
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.genruntimeconfig.cache
+D:\asp.net sec\D05_Task\D05_Task\obj\Debug\net8.0\ref\D05_Task.dll
+D:\asp.net sec\Task 05\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.exe
+D:\asp.net sec\Task 05\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.deps.json
+D:\asp.net sec\Task 05\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.runtimeconfig.json
+D:\asp.net sec\Task 05\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.dll
+D:\asp.net sec\Task 05\D05_Task\D05_Task\bin\Debug\net8.0\D05_Task.pdb
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.AssemblyInfoInputs.cache
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.AssemblyInfo.cs
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.csproj.CoreCompileInputs.cache
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.dll
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\refint\D05_Task.dll
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.pdb
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\D05_Task.genruntimeconfig.cache
+D:\asp.net sec\Task 05\D05_Task\D05_Task\obj\Debug\net8.0\ref\D05_Task.dll
